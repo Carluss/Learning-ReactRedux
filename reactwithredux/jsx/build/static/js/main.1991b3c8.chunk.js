@@ -1,0 +1,2 @@
+(this.webpackJsonpjsx=this.webpackJsonpjsx||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);n(1);var r=n(3),c=n.n(r),s=n(0);var o=function(){return Object(s.jsxs)("div",{children:[Object(s.jsx)("label",{className:"label",for:"name",children:"Enter Name:"}),Object(s.jsx)("input",{id:"name",type:"text"}),Object(s.jsx)("button",{style:{backgroundColor:"blue",color:"white"},children:"Submit"})]})};c.a.render(Object(s.jsx)(o,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.1991b3c8.chunk.js.map
