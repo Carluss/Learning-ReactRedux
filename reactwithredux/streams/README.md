@@ -1,3 +1,7 @@
+# Init
+
+Twitch like React App, with google auth
+
 ### `npm start` cd:streams/api (JSON server , https://www.npmjs.com/package/json-server)
 
 ### `npm start` cd:streams/client/build (React App)

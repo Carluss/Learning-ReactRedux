@@ -1,6 +1,6 @@
 # Init
 
-This project fetch's 100 messages and 10 different users from jsonplaceholder API, storing data in Redux
+Simple React App using context
 
 ## Packages used
 
